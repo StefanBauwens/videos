@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.129956,
+https://github.com/StefanBauwens/videos/blob/master/filename0.ts?raw=true
+#EXTINF:10.629789,
+https://github.com/StefanBauwens/videos/blob/master/filename1.ts?raw=true
+#EXTINF:3.665444,
+https://github.com/StefanBauwens/videos/blob/master/filename2.ts?raw=true
+#EXT-X-ENDLIST
