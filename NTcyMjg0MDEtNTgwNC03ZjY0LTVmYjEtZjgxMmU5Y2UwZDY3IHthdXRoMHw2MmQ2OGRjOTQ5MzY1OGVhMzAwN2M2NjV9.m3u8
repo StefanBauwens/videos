@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:8
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:8.330556,
+https://github.com/StefanBauwens/videos/blob/master/NTcyMjg0MDEtNTgwNC03ZjY0LTVmYjEtZjgxMmU5Y2UwZDY3IHthdXRoMHw2MmQ2OGRjOTQ5MzY1OGVhMzAwN2M2NjV90.ts?raw=true
+#EXTINF:8.330556,
+https://github.com/StefanBauwens/videos/blob/master/NTcyMjg0MDEtNTgwNC03ZjY0LTVmYjEtZjgxMmU5Y2UwZDY3IHthdXRoMHw2MmQ2OGRjOTQ5MzY1OGVhMzAwN2M2NjV91.ts?raw=true
+#EXTINF:8.330556,
+https://github.com/StefanBauwens/videos/blob/master/NTcyMjg0MDEtNTgwNC03ZjY0LTVmYjEtZjgxMmU5Y2UwZDY3IHthdXRoMHw2MmQ2OGRjOTQ5MzY1OGVhMzAwN2M2NjV92.ts?raw=true
+#EXTINF:5.498167,
+https://github.com/StefanBauwens/videos/blob/master/NTcyMjg0MDEtNTgwNC03ZjY0LTVmYjEtZjgxMmU5Y2UwZDY3IHthdXRoMHw2MmQ2OGRjOTQ5MzY1OGVhMzAwN2M2NjV93.ts?raw=true
+#EXT-X-ENDLIST
